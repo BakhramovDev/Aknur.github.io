@@ -392,14 +392,13 @@ export default {
   color: #11121564;
 }
 .replying_item{
-  position: relative;
-  bottom: 5px;
+  position: fixed;
+  bottom: 45px;
   background:#27292f;
   height: 50px;
-  width: 100%;
+  width: 48.5%;
   border-radius: 10px 10px 0 0;
   display: flex;
-  /* flex-direction: column; */
   align-items: center;
   justify-content: space-between;
   padding: 5px 10px;
