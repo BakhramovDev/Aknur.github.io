@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Afacad", serif;
+    text-decoration: none;
+    list-style: none;
+    transition: all 0.5s ease;
+}
+
+body{
+    background: #151618;
+
+}
